@@ -3,9 +3,13 @@
 Certified Full Stack Developer & DevOps Enthusiast
 
 • 🟨 I'm currently learning <strong>MERN Stack</strong>, and improving <strong>DSA</strong> and <strong>DevOps</strong> skills  
+
 • 🟢 Ask Me About: JavaScript, Node.js, React, Express, Docker, Linux, DevOps  
+
 • 📫 Reach me at: <a href="mailto:sudarshanjagtap026@gmail.com">sudarshanjagtap026@gmail.com</a>  
+
 • 📊 <img src="https://komarev.com/ghpvc/?username=Jsudarshan26&label=PROFILE+VIEWS&color=brightgreen" alt="Profile Views"/>  
+
 • ⚙️ Future Goals: Dive deeper into <strong>Generative-AI in Cloud</strong> and <strong>multi-cloud strategies</strong>
 
 
@@ -15,12 +19,15 @@ Certified Full Stack Developer & DevOps Enthusiast
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" style="margin-right:15px;" />
   </a>
+	
   <a href="https://www.linkedin.com/in/sudarshan-jagtap-425a40283" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" style="margin-right:15px;" />
   </a>
+	
   <a href="https://stackoverflow.com/users/YOUR_ID" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="30" style="margin-right:15px;" />
   </a>
+	
   <a href="mailto:sudarshanjagtap026@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" />
   </a>
