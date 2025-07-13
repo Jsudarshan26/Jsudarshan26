@@ -1,66 +1,61 @@
 <h1 align="center">Hi 👋, I'm Sudarshan Jagtap</h1>
-<h3 align="center">💻 MERN Stack Dev | 🔧 DevOps Enthusiast | 🤖 DSA Learner</h3>
+
+<p align="center"><strong>Full Stack Developer | DevOps Enthusiast | DSA Learner</strong></p>
 
 
-### 🧠 Currently Learning:
-- MERN Stack (MongoDB, Express.js, React, Node.js)
-- DevOps Tools (Docker, Kubernetes, CI/CD)
-- DSA for coding interviews
+
+- 🌱 I'm currently learning **MERN Stack**, mastering **DSA**, and exploring **DevOps tools**
+- 💬 Ask me about:  `React`, `Docker`, `CI/CD`, `Git`, `Linux`
+- 📫 Reach me at **sudarshanjagtap026@gmail.com**
+- 🟢 ![Profile Views](https://komarev.com/ghpvc/?username=Jsudarshan26&label=PROFILE+VIEWS&color=brightgreen)
+- 🚀 Future Goals: Dive deeper into **Generative AI** and build scalable solutions in **Cloud computing**
 
 
-### 💬 Ask Me About:
- `React` |  `Linux` | `DevOps`
 
+## Connect with me:
 
-### 📫 How to reach me:
-📧 sudarshanjagtap026@gmail.com
-
-
-### 🚀 Future Goals:
-- Dive deeper into **Generative AI**
-- Explore **Cloud Infrastructure** (AWS, Azure, GCP)
-- Build scalable full-stack applications
-
----
-
-### 🌐 Connect with me:
 <p align="left">
-  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/sudarshan-jagtap-425a40283?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8iLJ8fzlRKSk0TimCj9S8w%3D%3D)">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  <a href="linkedin.com/in/sudarshan-jagtap-425a40283" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://twitter.com/YOUR-TWITTER" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Twitter-black?logo=twitter&style=for-the-badge" />
+  <a href="https://twitter.com/YOUR-TWITTER-URL" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" />
+  </a>
+  <a href="https://stackoverflow.com/users/YOUR-ID" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow" />
   </a>
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=Jsudarshan26&label=PROFILE+VIEWS&color=brightgreen)
 
 
+## Languages and Tools:
 
-### 🛠️ Tech Stack:
 <p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
 </p>
 
----
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jsudarshan26&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jsudarshan26&theme=tokyonight" width="48%" />
-</p>
 
----
+## 📊 Most Used Languages
 
-### 🔥 Fun Fact:
-> "I'm not just learning code — I’m engineering my future."
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsudarshan26&layout=compact&theme=dark&langs_count=6)
+
+
+
+<p align="center"><em>Let's connect and collaborate on exciting projects!</em></p>
+
 
 
