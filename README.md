@@ -8,7 +8,7 @@ Certified Full Stack Developer & DevOps Enthusiast
 • 📊 <img src="https://komarev.com/ghpvc/?username=Jsudarshan26&label=PROFILE+VIEWS&color=brightgreen" alt="Profile Views"/>  
 • ⚙️ Future Goals: Dive deeper into <strong>Generative-AI in Cloud</strong> and <strong>multi-cloud strategies</strong>
 
----
+
 
 ### Connect with me:
 <p>
@@ -26,7 +26,7 @@ Certified Full Stack Developer & DevOps Enthusiast
   </a>
 </p>
 
----
+
 
 ### Languages and Tools:
 <p>
@@ -49,11 +49,11 @@ Certified Full Stack Developer & DevOps Enthusiast
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" style="margin-right:10px;" />
 </p>
 
----
+
 
 ### Most Used Languages:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jsudarshan26&layout=compact&theme=dark&langs_count=6" />
 
----
+
 
 Let's connect and collaborate on exciting projects!
