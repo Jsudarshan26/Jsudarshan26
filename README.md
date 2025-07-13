@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudarshan Jagtap</h1>
 
-Certified Full Stack Developer & DevOps Enthusiast
+                              Full Stack Developer & DevOps Enthusiast
 
 • 🟨 I'm currently learning <strong>MERN Stack</strong>, and improving <strong>DSA</strong> and <strong>DevOps</strong> skills  
 
@@ -24,13 +24,6 @@ Certified Full Stack Developer & DevOps Enthusiast
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" style="margin-right:15px;" />
   </a>
 	
-  <a href="https://stackoverflow.com/users/YOUR_ID" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="30" style="margin-right:15px;" />
-  </a>
-	
-  <a href="mailto:sudarshanjagtap026@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" />
-  </a>
 </p>
 
 
