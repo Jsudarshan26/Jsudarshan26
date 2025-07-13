@@ -1,24 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sudarshan Jagtap</h1>
 <h3 align="center">💻 MERN Stack Dev | 🔧 DevOps Enthusiast | 🤖 DSA Learner</h3>
 
----
 
 ### 🧠 Currently Learning:
 - MERN Stack (MongoDB, Express.js, React, Node.js)
 - DevOps Tools (Docker, Kubernetes, CI/CD)
 - DSA for coding interviews
 
----
 
 ### 💬 Ask Me About:
  `React` |  `Linux` | `DevOps`
 
----
 
 ### 📫 How to reach me:
 📧 sudarshanjagtap026@gmail.com
 
----
 
 ### 🚀 Future Goals:
 - Dive deeper into **Generative AI**
@@ -29,7 +25,7 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/sudarshan-jagtap-425a40283?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8iLJ8fzlRKSk0TimCj9S8w%3D%3D)" target="blank">
+  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/sudarshan-jagtap-425a40283?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8iLJ8fzlRKSk0TimCj9S8w%3D%3D)">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="https://twitter.com/YOUR-TWITTER" target="blank">
@@ -40,7 +36,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Jsudarshan26&label=PROFILE+VIEWS&color=brightgreen)
 
 
----
 
 ### 🛠️ Tech Stack:
 <p align="left">
