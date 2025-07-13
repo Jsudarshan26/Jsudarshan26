@@ -1,20 +1,21 @@
-<h1 align="center">Hi, I'm Sudarshan Jagtap</h1>
+<h1 align="center">Hi 👋, I'm Sudarshan Jagtap</h1>
 
 Certified Full Stack Developer & DevOps Enthusiast
 
-I'm currently learning **MERN Stack**, and improving **DSA** and **DevOps skills**  
-Ask Me About: **JavaScript**, **Node.js**, **React**, **Express**, **Docker**, **Linux**, **DevOps**  
-Reach me at sudarshanjagtap026@gmail.com  
-![Profile Views](https://komarev.com/ghpvc/?username=Jsudarshan26&label=PROFILE+VIEWS&color=brightgreen)  
-Future Goals: Dive deeper into **Generative AI in Cloud** and **multi-cloud strategies**
+•  I'm currently learning MERN Stack, and improving DSA and DevOps skills  
+•  Ask Me About: JavaScript, Node.js, React, Express, Docker, Linux, DevOps  
+•  Reach me at sudarshanjagtap026@gmail.com  
+•  ![Profile Views](https://komarev.com/ghpvc/?username=Jsudarshan26&label=PROFILE+VIEWS&color=brightgreen)  
+•  Future Goals: Dive deeper into Generative-AI in Cloud and multi-cloud strategies  
 
 Connect with me:  
+
 <a href="https://www.linkedin.com/in/sudarshan-jagtap-425a40283" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
 </a>
 
 <a href="mailto:sudarshanjagtap026@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="Gmail" />
 </a>
 
 Languages and Tools:  
